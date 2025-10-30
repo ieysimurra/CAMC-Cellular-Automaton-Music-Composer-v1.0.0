@@ -1,1 +1,0 @@
-# CAMC-Cellular-Automaton-Music-Composer-v1.0.0
