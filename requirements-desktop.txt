@@ -1,0 +1,14 @@
+# Requirements for Desktop (CustomTkinter) Version
+# Install with: pip install -r requirements-desktop.txt
+
+# Core dependencies
+customtkinter>=5.2.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+Pillow>=10.0.0
+
+# Music processing
+music21>=9.1.0
+
+# Optional but recommended
+pandas>=2.0.0
