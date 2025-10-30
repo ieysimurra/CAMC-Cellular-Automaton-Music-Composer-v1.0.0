@@ -51,7 +51,7 @@ Cellular automata (CA) are mathematical systems where cells in a grid evolve fol
 ## 🎥 Demo
 
 ### Web Version (Streamlit Cloud)
-🌐 **[Access the online application here](https://ca-music-composer.streamlit.app)** (replace with actual URL)
+🌐 **[Access the online application here](https://camc-cellular-automaton-music-composer.streamlit.app/)**
 
 ### Screenshots
 
@@ -491,10 +491,8 @@ distribute, sublicense, and/or sell copies of the Software.
 ## 👥 Authors
 
 **[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Website: [yoursite.com](https://yoursite.com)
+- GitHub: [@your-username](https://github.com/ieysimurra)
+- Email: ieysimurra@gmail.com
 
 ### Contributors
 
