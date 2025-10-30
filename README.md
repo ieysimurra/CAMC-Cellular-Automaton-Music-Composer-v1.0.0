@@ -51,7 +51,7 @@ Autômatos celulares (CA) são sistemas matemáticos onde células em uma grade 
 ## 🎥 Demonstração
 
 ### Versão Web (Streamlit Cloud)
-🌐 **[Acesse a aplicação online aqui](https://camc-cellular-automaton-music-composer.streamlit.app/)** (substituir pela URL real)
+🌐 **[Acesse a aplicação online aqui](https://camc-cellular-automaton-music-composer.streamlit.app/)**
 
 ### Screenshots
 
