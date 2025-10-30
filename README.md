@@ -51,7 +51,7 @@ Autômatos celulares (CA) são sistemas matemáticos onde células em uma grade 
 ## 🎥 Demonstração
 
 ### Versão Web (Streamlit Cloud)
-🌐 **[Acesse a aplicação online aqui](https://ca-music-composer.streamlit.app)** (substituir pela URL real)
+🌐 **[Acesse a aplicação online aqui](https://camc-cellular-automaton-music-composer.streamlit.app/)** (substituir pela URL real)
 
 ### Screenshots
 
@@ -491,10 +491,8 @@ distribuir, sublicenciar e/ou vender cópias do Software.
 ## 👥 Autores
 
 **[Seu Nome]**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu.email@example.com
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- Website: [seusite.com](https://seusite.com)
+- GitHub: [@seu-usuario](https://github.com/ieysimurra)
+- Email: ieysimurra@gmail.com
 
 ### Contribuidores
 
