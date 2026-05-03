@@ -32,7 +32,7 @@
 
 ## 🎯 Sobre o Projeto
 
-O **Compositor com Autômatos Celulares** é uma ferramenta inovadora que transforma padrões matemáticos gerados por autômatos celulares em composições musicais profissionais. O sistema permite criar desde pequenas melodias até partituras orquestrais completas, oferecendo controle total sobre instrumentação, harmonia e ritmo.
+O **Compositor com Autômatos Celulares** é uma ferramenta computacional que transforma padrões matemáticos gerados por autômatos celulares em composições musicais. O sistema permite criar desde pequenas melodias até partituras orquestrais.
 
 ### 🎼 O Que São Autômatos Celulares?
 
